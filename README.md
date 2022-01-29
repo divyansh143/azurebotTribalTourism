@@ -4,4 +4,4 @@ This project is created using the azure services like azure qna maker, azure bot
 
 WALKTHROUGH,HOW I CREATED THE PROJECT USING AZURE SERVICES -- https://youtu.be/82oGgq2yqZI  || Project Link  of my azure Web Given below- https://asstorageaccountv2.z13.web.core.windows.net/
 
-
+#Also gO through the Synopsis and Methodology.docx attached. 
