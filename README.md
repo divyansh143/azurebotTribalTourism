@@ -1,4 +1,4 @@
-# azurebotTribalTourism
+# Tribal Tourism Endorsement using Azure Bot and Microsoft Services.
 
 This project is created using the azure services like azure qna maker, azure bot service, vs code, azure static website.
 
